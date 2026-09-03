@@ -32,6 +32,6 @@ using a bar chart.
 -Presenting a data analysis project
 
 
-## Visualizatiob.
+## Visualization.
 
 ![Scholar Average Marks](Scholar_Average_Marks.png)
