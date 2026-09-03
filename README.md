@@ -21,8 +21,7 @@ This project analysis Scholar performance using python and a csv dataset.
 -'scholar_average_marks.pns'-Average marks Visualization
 
 ## Key Result
-The project identifies the Scholar with the highest average marks and compares the performance of all scholar
-using a bar chart.
+The project analyzes scholar performance using python and a csv dataset. It calculates average marks, identifies the highest and lowest performers, and visualizes the result using a bar chart.
 
 ## What I Learned
 -Reading CSV files with pandas
