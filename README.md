@@ -26,7 +26,7 @@ using a bar chart.
 
 ## What I Learned
 -Reading CSV files with pandas
-=Performing data calculations
+-Performing data calculations
 -Finding Maximum and Minimum values
 -Creating Visualizations with Matplotlib
 -Presenting a data analysis project
